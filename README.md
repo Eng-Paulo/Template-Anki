@@ -1,1 +1,1 @@
-# Anki - atividade extensionista 
+# Template Anki Flashcards - atividade extensionista.
