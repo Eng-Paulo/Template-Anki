@@ -1,3 +1,5 @@
 
 
-# Anki Minha atividade extensionista 
+# Template Anki Flashcards - atividade extensionista.
+
+# Template-Anki-
